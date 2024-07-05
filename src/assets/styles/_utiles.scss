@@ -30,6 +30,26 @@
     margin: 30px;
 }
 
+.my-5 {
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+
+.my-10 {
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.my-20 {
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.my-30 {
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+
 .mb-5 {
     margin-bottom: 5px;
 }
@@ -64,4 +84,10 @@
 
 .mr-30 {
     margin-right: 30px;
+}
+
+.container {
+    max-width: 1200px;
+    margin: auto;
+    width: 100%;
 }
